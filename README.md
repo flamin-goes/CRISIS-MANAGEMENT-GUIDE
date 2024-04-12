@@ -5,7 +5,7 @@ A comprehensive guide for developing a crisis management plan.
 This file discusses about What exactly is Crisis Management? and the Crisis Lifecycle.
 
 ``Related Standards``
-This file discusses about the several standards related to crisis and security incident management like `NIST SP 800-34`, ~ISO 27035~, `ISO 22301`
+This file discusses about the several standards related to crisis and security incident management like _NIST SP 800-34_ , _ISO 27035_, _ISO 22301_
 
 ``Role of Backups`` 
 This file discusses the importance of having backups in crisis management and the minimum requirements and strategies/rules that should be implemented in order to speed up the recovery process.
