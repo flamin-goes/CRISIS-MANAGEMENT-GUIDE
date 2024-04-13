@@ -7,6 +7,12 @@ This file discusses about What exactly is Crisis Management? and the Crisis Life
 ``Related Standards``
 This file discusses about the several standards related to crisis and security incident management like _NIST SP 800-34_ , _ISO 27035_, _ISO 22301_
 
+``What happens after a crisis takes place?``
+This file discusses about how the work load of crisis management is divided into two teams as well as it discusses their roles and responsibilities.
+
+``Free Tools``
+This file discusses about some great _FREE_ tools other than the ones we already know.
+
 ``Role of Backups`` 
 This file discusses the importance of having backups in crisis management and the minimum requirements and strategies/rules that should be implemented in order to speed up the recovery process.
 
