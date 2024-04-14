@@ -1,4 +1,4 @@
-# DFIR-Crisis Management
+# Crisis Management Guide
 A comprehensive guide for developing a crisis management plan.
 
 ``Introduction``
@@ -12,6 +12,9 @@ This file discusses about how the work load of crisis management is divided into
 
 ``Free Tools``
 This file discusses about some great _FREE_ tools other than the ones we already know.
+
+``Most Important Elements Of Crisis Management``
+This file discusses about the most vital elements needed to manage and recover from a crisis efficiently and fastly.
 
 ``Role of Backups`` 
 This file discusses the importance of having backups in crisis management and the minimum requirements and strategies/rules that should be implemented in order to speed up the recovery process.
