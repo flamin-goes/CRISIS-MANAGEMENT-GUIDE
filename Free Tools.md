@@ -1,6 +1,7 @@
 # FREE TOOLS FOR INCIDENT RESPONSE
 The most obvious choices being: nmap, wireshark and tcpdump, we do have some other great tools which are free. 
 Some of those are mentioned below:
+# -----------------------------------------------------------------
 `Graylog:`
 An open-source SIEM solution that allows you to collect, index, and analyze log data from various sources in real-time. It offers features such as dashboards, alerts, and search capabilities.
 `Elastic Stack (formerly ELK Stack):`
