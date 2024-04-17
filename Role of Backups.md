@@ -14,8 +14,8 @@ Here's a breakdown of each component:
 
 ##### 2. THE 3-2-1-1-0 STRATEGY/RULE :
 This rule extends the 3-2-1 principle by adding two more layers of protection:
-1. Three Copies: Same as the 3-2-1 rule.
-2. Two Different Media Types: Same as the 3-2-1 rule.
-3. One Copy Offsite: Same as the 3-2-1 rule.
-4. One Copy Air-gapped or stored offline: An air-gapped copy is completely isolated from the network, safeguarding it against cyberattacks and malware. This copy is typically stored on a physical medium like tape or removable drive and disconnected from the network after backup.
-5. Zero Errors: Regularly verify and test backups to ensure their integrity and usability during a crisis.
+1. `Three Copies`: Same as the 3-2-1 rule.
+2. `Two Different Media Types`: Same as the 3-2-1 rule.
+3. `One Copy Offsite`: Same as the 3-2-1 rule.
+4. `One Copy Air-gapped or stored offline`: An air-gapped copy is completely isolated from the network, safeguarding it against cyberattacks and malware. This copy is typically stored on a physical medium like tape or removable drive and disconnected from the network after backup.
+5. `Zero Errors`: Regularly verify and test backups to ensure their integrity and usability during a crisis.
